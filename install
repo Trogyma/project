@@ -1,0 +1,520 @@
+A parancsfájl elindult ekkor: 2010. dec.  7., kedd, 19.15.13 CET
+dani@dani-laptop:~/ruby/proba/teszt$ rails scd ruby/proba/teszt/rm -rf spec/helpers views  helperscd ruby/proba/teszt/rails s                    script/plugin install 
+bash: script/plugin: Nincs ilyen fájl vagy könyvtár
+dani@dani-laptop:~/ruby/proba/teszt$ raisl  ls console
+Loading development environment (Rails 3.0.1)
+ree-1.8.7-2010.02 > script/plugin install 
+SyntaxError: compile error
+(irb):1: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+script/plugin install 
+                     ^
+	from (irb):1
+ree-1.8.7-2010.02 > script/plugin install 
+SyntaxError: compile error
+(irb):2: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+script/plugin install 
+                     ^
+	from (irb):2
+ree-1.8.7-2010.02 > svn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > ssvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > scsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > scrsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > scrisvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > scripsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > scriptsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/svn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/psvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plusvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugisvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/pluginsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin svn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin isvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin insvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin inree-1.8.7-2010.02 > script/plugin inssvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin instsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin instasvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin instalsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin installsvn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_paginate)ree-1.8.7-2010.02 > script/plugin install ree-1.8.7-2010.02 > script/plugin install sree-1.8.7-2010.02 > script/plugin install svree-1.8.7-2010.02 > script/plugin install svnree-1.8.7-2010.02 > script/plugin install svn:ree-1.8.7-2010.02 > script/plugin install svn:/ree-1.8.7-2010.02 > script/plugin install svn://ree-1.8.7-2010.02 > script/plugin install svn://eree-1.8.7-2010.02 > script/plugin install svn://erree-1.8.7-2010.02 > script/plugin install svn://errree-1.8.7-2010.02 > script/plugin install svn://errtree-1.8.7-2010.02 > script/plugin install svn://errthree-1.8.7-2010.02 > script/plugin install svn://errtheree-1.8.7-2010.02 > script/plugin install svn://errthebree-1.8.7-2010.02 > script/plugin install svn://errtheblree-1.8.7-2010.02 > script/plugin install svn://errthebloree-1.8.7-2010.02 > script/plugin install svn://errtheblogree-1.8.7-2010.02 > script/plugin install svn://errtheblog.ree-1.8.7-2010.02 > script/plugin install svn://errtheblog.cree-1.8.7-2010.02 > script/plugin install svn://errtheblog.coree-1.8.7-2010.02 > script/plugin install svn://errtheblog.comree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/ree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/sree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svnree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/ree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/pree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/pluree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugiree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/pluginree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/pluginsree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/ree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/wree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/wiree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/wilree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/willree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_ree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_pree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_paree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_pagree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_pagiree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_paginree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_paginaree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_paginatree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_paginateree-1.8.7-2010.02 > script/plugin install svn://errtheblog.com/svn/plugins/will_paginate) 
+SyntaxError: compile error
+(irb):3: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+script/plugin install svn://errtheblog.com/svn/plugins/will_paginate
+                     ^
+	from (irb):3
+ree-1.8.7-2010.02 > exit
+dani@dani-laptop:~/ruby/proba/teszt$ git add .
+dani@dani-laptop:~/ruby/proba/teszt$ git commit -am "Done with user edit/update, index, and destroy actions"" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " 1"0" "e"s" "t"e"l"j"e"s"e"n" "k"e"s"z"
+[master cf8f06b] 10 es teljesen kesz
+ 6 files changed, 37 insertions(+), 13 deletions(-)
+ create mode 100644 app/views/users/_user.html.erb
+ create mode 100644 install
+dani@dani-laptop:~/ruby/proba/teszt$ git checkout master
+Already on 'master'
+dani@dani-laptop:~/ruby/proba/teszt$ git merge updating-users
+Already up-to-date.
+dani@dani-laptop:~/ruby/proba/teszt$ git push
+Counting objects: 21, done.
+Delta compression using up to 2 threads.
+Compressing objects:   8% (1/12)   Compressing objects:  16% (2/12)   Compressing objects:  25% (3/12)   Compressing objects:  33% (4/12)   Compressing objects:  41% (5/12)   Compressing objects:  50% (6/12)   Compressing objects:  58% (7/12)   Compressing objects:  66% (8/12)   Compressing objects:  75% (9/12)   Compressing objects:  83% (10/12)   Compressing objects:  91% (11/12)   Compressing objects: 100% (12/12)   Compressing objects: 100% (12/12), done.
+Writing objects:   8% (1/12)   Writing objects:  16% (2/12)   Writing objects:  25% (3/12)   Writing objects:  33% (4/12)   Writing objects:  41% (5/12)   Writing objects:  50% (6/12)   Writing objects:  58% (7/12)   Writing objects:  66% (8/12)   Writing objects:  75% (9/12)   Writing objects:  83% (10/12)   Writing objects:  91% (11/12)   Writing objects: 100% (12/12)   Writing objects: 100% (12/12), 1.62 KiB, done.
+Total 12 (delta 8), reused 0 (delta 0)
+To git@github.com:Khadgar/first_app.git
+   e9e4e51..cf8f06b  master -> master
+dani@dani-laptop:~/ruby/proba/teszt$ pine
+Nem található „pine” nevű parancs, talán erre gondolt:
+ „ping” parancs a(z) „inetutils-ping” (universe) csomagból
+ „ping” parancs a(z) „iputils-ping” (main) csomagból
+ „wine” parancs a(z) „wine1.0” (multiverse) csomagból
+ „wine” parancs a(z) „wine1.2” (universe) csomagból
+ „spine” parancs a(z) „cacti-spine” (universe) csomagból
+ „xine” parancs a(z) „xine-ui” (universe) csomagból
+ „line” parancs a(z) „util-linux” (main) csomagból
+pine: a parancs nem található
+dani@dani-laptop:~/ruby/proba/teszt$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 00:26:18:22:50:a3  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+          Interrupt:43 Base address:0x6000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:23972 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:23972 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:34783868 (34.7 MB)  TX bytes:34783868 (34.7 MB)
+
+vmnet1    Link encap:Ethernet  HWaddr 00:50:56:c0:00:01  
+          inet addr:192.168.74.1  Bcast:192.168.74.255  Mask:255.255.255.0
+          inet6 addr: fe80::250:56ff:fec0:1/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1178 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+vmnet8    Link encap:Ethernet  HWaddr 00:50:56:c0:00:08  
+          inet addr:172.16.234.1  Bcast:172.16.234.255  Mask:255.255.255.0
+          inet6 addr: fe80::250:56ff:fec0:8/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:15 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1179 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+wlan0     Link encap:Ethernet  HWaddr 00:22:43:9c:51:31  
+          inet addr:192.168.1.101  Bcast:192.168.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::222:43ff:fe9c:5131/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:987016 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:992674 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:620923929 (620.9 MB)  TX bytes:555348595 (555.3 MB)
+
+dani@dani-laptop:~/ruby/proba/teszt$ man ifconfig
+WARNING: terminal is not fully functional
+-  (press RETURN)IFCONFIG(8)                                                          Linux Programmer's Manual                                                          IFCONFIG(8)[m
+[m
+NAME[m
+       ifconfig - configure a network interface[m
+[m
+SYNOPSIS[m
+       ifconfig [-v] [-a] [-s] [interface][m
+       ifconfig [-v] interface [aftype] options | address ...[m
+[m
+DESCRIPTION[m
+       Ifconfig is used to configure the kernel-resident network interfaces.  It is used at boot time to set up interfaces as necessary.  After that, it is usually[m
+       only needed when debugging or when system tuning is needed.[m
+[m
+       If no arguments are given, ifconfig displays the status of the currently active interfaces.  If a single interface argument is given, it displays the status[m
+       of the given interface only; if a single -a argument is given, it displays the status of all interfaces, even those that are down.  Otherwise, it configures[m
+       an interface.[m
+[m
+Address Families[m
+       If the first argument after the interface name is recognized as the name of a supported address family, that address family is used for  decoding  and  dis‐[m
+       playing all protocol addresses.  Currently supported address families include inet (TCP/IP, default), inet6 (IPv6), ax25 (AMPR Packet Radio), ddp (Appletalk[m
+       Phase 2), ipx (Novell IPX) and netrom (AMPR Packet radio).[m
+ Manual page ifconfig(8) line 1[m
+ Manual page ifconfig(8) line 2OPTIONS[m
+ Manual page ifconfig(8) line 5       -a     display all interfaces which are currently available, even if down[m
+ Manual page ifconfig(8) line 6[m
+ Manual page ifconfig(8) line 7       -s     display a short list (like netstat -i)[m
+ Manual page ifconfig(8) line 8[m
+ Manual page ifconfig(8) line 9 Manual page ifconfig(8) line 9 ESCESCESCESC Manual page ifconfig(8) line 9 ESCESC^J^J Manual page ifconfig(8) line 9       -v     be more verbose for some error conditions[m
+ Manual page ifconfig(8) line 10[m
+ Manual page ifconfig(8) line 11       interface[m
+ Manual page ifconfig(8) line 12              The name of the interface.  This is usually a driver name followed by a unit number, for example eth0 for the first Ethernet interface. If your  ker‐[m
+ Manual page ifconfig(8) line 13              nel  supports  alias interfaces, you can specify them with eth0:0 for the first alias of eth0. You can use them to assign a second address. To delete[m
+ Manual page ifconfig(8) line 14              an alias interface use ifconfig eth0:0 down.  Note: for every scope (i.e. same net with address/netmask combination) all aliases are deleted, if  you[m
+ Manual page ifconfig(8) line 15              delete the first (primary).[m
+ Manual page ifconfig(8) line 16[m
+ Manual page ifconfig(8) line 17       up     This flag causes the interface to be activated.  It is implicitly specified if an address is assigned to the interface.[m
+ Manual page ifconfig(8) line 18[m
+ Manual page ifconfig(8) line 19       down   This flag causes the driver for this interface to be shut down.[m
+ Manual page ifconfig(8) line 21[m
+ Manual page ifconfig(8) line 22       [-]arp Enable or disable the use of the ARP protocol on this interface.[m
+ Manual page ifconfig(8) line 23[m
+ Manual page ifconfig(8) line 24       [-]promisc[m
+ Manual page ifconfig(8) line 25              Enable or disable the promiscuous mode of the interface.  If selected, all packets on the network will be received by the interface.[m
+ Manual page ifconfig(8) line 26[m
+ Manual page ifconfig(8) line 27       [-]allmulti[m
+ Manual page ifconfig(8) line 28              Enable or disable all-multicast mode.  If selected, all multicast packets on the network will be received by the interface.[m
+ Manual page ifconfig(8) line 29[m
+ Manual page ifconfig(8) line 30       metric N[m
+ Manual page ifconfig(8) line 31              This parameter sets the interface metric.[m
+ Manual page ifconfig(8) line 32[m
+ Manual page ifconfig(8) line 33       mtu N  This parameter sets the Maximum Transfer Unit (MTU) of an interface.[m
+ Manual page ifconfig(8) line 34[m
+ Manual page ifconfig(8) line 35       dstaddr addr[m
+ Manual page ifconfig(8) line 36              Set the remote IP address for a point-to-point link (such as PPP).  This keyword is now obsolete; use the pointopoint keyword instead.[m
+ Manual page ifconfig(8) line 37[m
+ Manual page ifconfig(8) line 38       netmask addr[m
+              Set  the  IP  network  mask  for  this  interface.   This  value defaults to the usual class A, B or C network mask (as derived from the interface IP[m
+              address), but it can be set to any value.[m
+[m
+       add addr/prefixlen[m
+              Add an IPv6 address to an interface.[m
+[m
+       del addr/prefixlen[m
+              Remove an IPv6 address from an interface.[m
+[m
+       tunnel aa.bb.cc.dd[m
+              Create a new SIT (IPv6-in-IPv4) device, tunnelling to the given destination.[m
+[m
+       irq addr[m
+              Set the interrupt line used by this device.  Not all devices can dynamically change their IRQ setting.[m
+[m
+       io_addr addr[m
+              Set the start address in I/O space for this device.[m
+[m
+       mem_start addr[m
+              Set the start address for shared memory used by this device.  Only a few devices need this.[m
+ Manual page ifconfig(8) line 59[m
+       media type[m
+              Set the physical port or medium type to be used by the device.  Not all devices can change this setting, and those that can vary in what values  they[m
+              support.   Typical  values  for  type are 10base2 (thin Ethernet), 10baseT (twisted-pair 10Mbps Ethernet), AUI (external transceiver) and so on.  The[m
+              special medium type of auto can be used to tell the driver to auto-sense the media.  Again, not all drivers can do this.[m
+[m
+       [-]broadcast [addr][m
+              If the address argument is given, set the protocol broadcast address for this interface.  Otherwise, set (or clear) the IFF_BROADCAST  flag  for  the[m
+              interface.[m
+[m
+       [-]pointopoint [addr][m
+              This keyword enables the point-to-point mode of an interface, meaning that it is a direct link between two machines with nobody else listening on it.[m
+              If  the  address argument is also given, set the protocol address of the other side of the link, just like the obsolete dstaddr keyword does.  Other‐[m
+              wise, set or clear the IFF_POINTOPOINT flag for the interface.[m
+[m
+       hw class address[m
+              Set the hardware address of this interface, if the device driver supports this operation.  The keyword must be followed by the name of  the  hardware[m
+              class  and the printable ASCII equivalent of the hardware address.  Hardware classes currently supported include ether (Ethernet), ax25 (AMPR AX.25),[m
+              ARCnet and netrom (AMPR NET/ROM).[m
+[m
+       multicast[m
+ Manual page ifconfig(8) line 80              Set the multicast flag on the interface. This should not normally be needed as the drivers set the flag correctly themselves.[m
+[m
+       address[m
+              The IP address to be assigned to this interface.[m
+[m
+       txqueuelen length[m
+              Set the length of the transmit queue of the device. It is useful to set this to small values for slower devices with a  high  latency  (modem  links,[m
+              ISDN) to prevent fast bulk transfers from disturbing interactive traffic like telnet too much.[m
+[m
+NOTES[m
+       Since kernel release 2.2 there are no explicit interface statistics for alias interfaces anymore. The statistics printed for the original address are shared[m
+       with all alias addresses on the same device. If you want per-address statistics you  should  add  explicit  accounting  rules  for  the  address  using  the[m
+       ipchains(8) or iptables(8) command.[m
+[m
+       Interrupt  problems  with  Ethernet device drivers fail with EAGAIN (SIOCSIIFLAGS: Resource temporarily unavailable) it is most likely a interrupt conflict.[m
+       See http://www.scyld.com/expert/irq-conflict.html for more information.[m
+[m
+FILES[m
+       /proc/net/socket[m
+       /proc/net/dev[m
+       /proc/net/if_inet6[m
+ Manual page ifconfig(8) line 101[m
+BUGS[m
+       While appletalk DDP and IPX addresses will be displayed they cannot be altered by this command.[m
+[m
+SEE ALSO[m
+       route(8), netstat(8), arp(8), rarp(8), ipchains(8), iptables(8), ifup(8), interfaces(5).[m
+       http://physics.nist.gov/cuu/Units/binary.html - Prefixes for binary multiples[m
+[m
+AUTHORS[m
+       Fred N. van Kempen, <waltje@uwalt.nl.mugnet.org>[m
+       Alan Cox, <Alan.Cox@linux.org>[m
+       Phil Blundell, <Philip.Blundell@pobox.com>[m
+       Andi Kleen[m
+       Bernd Eckenfels, <net-tools@lina.inka.de>[m
+[m
+net-tools                                                                    2007-12-02                                                                 IFCONFIG(8)[m
+ Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) Manual page ifconfig(8) line 117/139 (END) ESCESC^J^J Manual page ifconfig(8) line 117/139 (END) ::QQdani@dani-laptop:~/ruby/proba/teszt$ bg
+bash: bg: aktuális: nincs ilyen munka
+dani@dani-laptop:~/ruby/proba/teszt$ man bbg  g
+No manual entry for bg
+dani@dani-laptop:~/ruby/proba/teszt$ man fg
+No manual entry for fg
+dani@dani-laptop:~/ruby/proba/teszt$ heroku push
+Unknown command. Run 'heroku help' for usage information.
+dani@dani-laptop:~/ruby/proba/teszt$ heroku help7 
+=== General Commands
+
+help                                       # show this usage
+version                                    # show the gem version
+
+list                                       # list your apps
+create [<name>]                            # create a new app
+
+keys                                       # show your user's public keys
+keys:add [<path to keyfile>]               # add a public key
+keys:remove <keyname>                      # remove a key by name (user@host)
+keys:clear                                 # remove all keys
+
+info                                       # show app info, like web url and git repo
+open                                       # open the app in a web browser
+rename <newname>                           # rename the app
+
+dynos <qty>                                # scale to qty web processes
+workers <qty>                              # scale to qty background processes
+ps                                         # show process list
+
+sharing:add <email>                        # add a collaborator
+sharing:remove <email>                     # remove a collaborator
+sharing:transfer <email>                   # transfers the app ownership
+
+domains:add <domain>                       # add a custom domain name
+domains:remove <domain>                    # remove a custom domain name
+domains:clear                              # remove all custom domains
+
+ssl:add <pem> <key>                        # add SSL cert to the app
+ssl:remove <domain>                        # removes SSL cert from the app domain
+ssl:clear                                  # remove all SSL certs from the app
+
+rake <command>                             # remotely execute a rake command
+console <command>                          # remotely execute a single console command
+console                                    # start an interactive console to the remote app
+
+restart                                    # restart app servers
+logs                                       # fetch recent log output for debugging
+logs:cron                                  # fetch cron log output
+
+maintenance:on                             # put the app into maintenance mode
+maintenance:off                            # take the app out of maintenance mode
+
+config                                     # display the app's config vars (environment)
+config:add key=val [...]                   # add one or more config vars
+config:remove key [...]                    # remove one or more config vars
+config:clear                               # clear user-set vars and reset to default
+
+stack                                      # show current stack and list of available stacks
+stack:migrate                              # prepare migration of this app to a new stack
+
+db:pull [<database_url>]                   # pull the app's database into a local database
+db:push [<database_url>]                   # push a local database into the app's remote database
+
+bundles                                    # list bundles for the app
+bundles:capture [<bundle>]                 # capture a bundle of the app's code and data
+bundles:download                           # download most recent app bundle as a tarball
+bundles:download <bundle>                  # download the named bundle
+bundles:destroy <bundle>                   # destroy the named bundle
+
+addons                                     # list installed addons
+addons:info                                # list all available addons
+addons:add name [key=value]                # install addon (with zero or more config vars)
+addons:remove name                         # uninstall an addons
+addons:clear                               # uninstall all addons
+
+destroy                                    # destroy the app permanently
+
+=== Plugins
+
+plugins                                    # list installed plugins
+plugins:install <url>                      # install the plugin from the specified git url
+plugins:uninstall <url/name>               # remove the specified plugin
+
+=== Releases
+
+releases                                   # list releases
+releases:info <release>                    # detailed info for a release
+rollback [<release>]                       # roll back to a prior release
+
+=== heroku-postgresql
+
+pg:info [--db <DATABASE>]                  # show database status
+pg:reset --db <DATABASE>                   # delete all data in the specified database
+pg:promote --db <DATABASE>                 # set a database identifier to the DATABASE_URL
+pg:psql [--db <DATABASE>]                  # open a psql shell to the database (dedicated only)
+pg:ingress [--db <DATABASE>]               # allow new connections from this IP to the database for one minute (dedicated only)
+
+=== General Commands
+
+help                                       # show this usage
+version                                    # show the gem version
+
+list                                       # list your apps
+create [<name>]                            # create a new app
+
+keys                                       # show your user's public keys
+keys:add [<path to keyfile>]               # add a public key
+keys:remove <keyname>                      # remove a key by name (user@host)
+keys:clear                                 # remove all keys
+
+info                                       # show app info, like web url and git repo
+open                                       # open the app in a web browser
+rename <newname>                           # rename the app
+
+dynos <qty>                                # scale to qty web processes
+workers <qty>                              # scale to qty background processes
+ps                                         # show process list
+
+sharing:add <email>                        # add a collaborator
+sharing:remove <email>                     # remove a collaborator
+sharing:transfer <email>                   # transfers the app ownership
+
+domains:add <domain>                       # add a custom domain name
+domains:remove <domain>                    # remove a custom domain name
+domains:clear                              # remove all custom domains
+
+ssl:add <pem> <key>                        # add SSL cert to the app
+ssl:remove <domain>                        # removes SSL cert from the app domain
+ssl:clear                                  # remove all SSL certs from the app
+
+rake <command>                             # remotely execute a rake command
+console <command>                          # remotely execute a single console command
+console                                    # start an interactive console to the remote app
+
+restart                                    # restart app servers
+logs                                       # fetch recent log output for debugging
+logs:cron                                  # fetch cron log output
+
+maintenance:on                             # put the app into maintenance mode
+maintenance:off                            # take the app out of maintenance mode
+
+config                                     # display the app's config vars (environment)
+config:add key=val [...]                   # add one or more config vars
+config:remove key [...]                    # remove one or more config vars
+config:clear                               # clear user-set vars and reset to default
+
+stack                                      # show current stack and list of available stacks
+stack:migrate                              # prepare migration of this app to a new stack
+
+db:pull [<database_url>]                   # pull the app's database into a local database
+db:push [<database_url>]                   # push a local database into the app's remote database
+
+bundles                                    # list bundles for the app
+bundles:capture [<bundle>]                 # capture a bundle of the app's code and data
+bundles:download                           # download most recent app bundle as a tarball
+bundles:download <bundle>                  # download the named bundle
+bundles:destroy <bundle>                   # destroy the named bundle
+
+addons                                     # list installed addons
+addons:info                                # list all available addons
+addons:add name [key=value]                # install addon (with zero or more config vars)
+addons:remove name                         # uninstall an addons
+addons:clear                               # uninstall all addons
+
+destroy                                    # destroy the app permanently
+
+=== Plugins
+
+plugins                                    # list installed plugins
+plugins:install <url>                      # install the plugin from the specified git url
+plugins:uninstall <url/name>               # remove the specified plugin
+
+=== pgbackups
+
+pgbackups                                  # list captured backups
+pgbackups:capture [<DB_ID>]                # capture a backup from database ID (default: DATABASE_URL)
+pgbackups:url [<BACKUP_ID>]                # get a temporary URL for a backup
+pgbackups:destroy <BACKUP_ID>              # destroy a backup
+pgbackups:restore <BACKUP_ID> --db <DB_ID> # restore the database ID (default: DATABASE_URL) from a backup
+pgbackups:restore <url> --db <DB_ID>       # restore the database ID (default: DATABASE_URL) from a URL
+
+=== Example:
+
+ rails myapp
+ cd myapp
+ git init
+ git add .
+ git commit -m "my new app"
+ heroku create
+ git push heroku master
+
+dani@dani-laptop:~/ruby/proba/teszt$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+Did you mean this?
+	add
+dani@dani-laptop:~/ruby/proba/teszt$ git add.  .
+dani@dani-laptop:~/ruby/proba/teszt$ ^C
+dani@dani-laptop:~/ruby/proba/teszt$ git commit -m "my new app"" " " " " " " " " " n"e"t"
+[master 8849dfd] net
+ 6 files changed, 365 insertions(+), 20 deletions(-)
+dani@dani-laptop:~/ruby/proba/teszt$ heroku create
+Creating deep-snow-71...... done
+Created http://deep-snow-71.heroku.com/ | git@heroku.com:deep-snow-71.git
+dani@dani-laptop:~/ruby/proba/teszt$ git push heroku master
+Counting objects: 53, done.
+Delta compression using up to 2 threads.
+Compressing objects:   2% (1/34)   Compressing objects:   5% (2/34)   Compressing objects:   8% (3/34)   Compressing objects:  11% (4/34)   Compressing objects:  14% (5/34)   Compressing objects:  17% (6/34)   Compressing objects:  20% (7/34)   Compressing objects:  23% (8/34)   Compressing objects:  26% (9/34)   Compressing objects:  29% (10/34)   Compressing objects:  32% (11/34)   Compressing objects:  35% (12/34)   Compressing objects:  38% (13/34)   Compressing objects:  41% (14/34)   Compressing objects:  44% (15/34)   Compressing objects:  47% (16/34)   Compressing objects:  50% (17/34)   Compressing objects:  52% (18/34)   Compressing objects:  55% (19/34)   Compressing objects:  58% (20/34)   Compressing objects:  61% (21/34)   Compressing objects:  64% (22/34)   Compressing objects:  67% (23/34)   Compressing objects:  70% (24/34)   Compressing objects:  73% (25/34)   Compressing objects:  76% (26/34)   Compressing objects:  79% (27/34)   Compressing objects:  82% (28/34)   Compressing objects:  85% (29/34)   Compressing objects:  88% (30/34)   Compressing objects:  91% (31/34)   Compressing objects:  94% (32/34)   Compressing objects:  97% (33/34)   Compressing objects: 100% (34/34)   Compressing objects: 100% (34/34), done.
+Writing objects:   2% (1/34)   Writing objects:   5% (2/34)   Writing objects:   8% (3/34)   Writing objects:  11% (4/34)   Writing objects:  14% (5/34)   Writing objects:  17% (6/34)   Writing objects:  20% (7/34)   Writing objects:  23% (8/34)   Writing objects:  26% (9/34)   Writing objects:  29% (10/34)   Writing objects:  32% (11/34)   Writing objects:  35% (12/34)   Writing objects:  38% (13/34)   Writing objects:  41% (14/34)   Writing objects:  44% (15/34)   Writing objects:  47% (16/34)   Writing objects:  50% (17/34)   Writing objects:  52% (18/34)   Writing objects:  55% (19/34)   Writing objects:  58% (20/34)   Writing objects:  61% (21/34)   Writing objects:  64% (22/34)   Writing objects:  67% (23/34)   Writing objects:  70% (24/34)   Writing objects:  73% (25/34)   Writing objects:  76% (26/34)   Writing objects:  79% (27/34)   Writing objects:  82% (28/34)   Writing objects:  85% (29/34)   Writing objects:  88% (30/34)   Writing objects:  91% (31/34)   Writing objects:  94% (32/34)   Writing objects:  97% (33/34)   Writing objects: 100% (34/34)   Writing objects: 100% (34/34), 9.48 KiB, done.
+Total 34 (delta 21), reused 0 (delta 0)
+
+-----> Heroku receiving push
+-----> Rails app detected
+-----> Detected Rails is not set to serve static_assets
+       Installing rails3_serve_static_assets... done
+-----> Gemfile detected, running Bundler version 1.0.3
+       Unresolved dependencies detected; Installing...
+       Fetching source index for http://rubygems.org/
+       Installing rake (0.8.7) 
+       Installing abstract (1.0.0) 
+       Installing activesupport (3.0.1) 
+       Installing builder (2.1.2) 
+       Installing i18n (0.4.1) 
+       Installing activemodel (3.0.1) 
+       Installing erubis (2.6.6) 
+       Installing rack (1.2.1) 
+       Installing rack-mount (0.6.13) 
+       Installing rack-test (0.5.6) 
+       Installing tzinfo (0.3.23) 
+       Installing actionpack (3.0.1) 
+       Installing mime-types (1.16) 
+       Installing polyglot (0.3.1) 
+       Installing treetop (1.4.8) 
+       Installing mail (2.2.7) 
+       Installing actionmailer (3.0.1) 
+       Installing arel (1.0.1) 
+       Installing activerecord (3.0.1) 
+       Installing activeresource (3.0.1) 
+       Installing annotate-models (1.0.4) 
+       Installing diff-lcs (1.1.2) 
+       Installing factory_girl (1.3.2) 
+       Using bundler (1.0.3) 
+       Installing thor (0.14.3) 
+       Installing railties (3.0.1) 
+       Installing rails (3.0.1) 
+       Installing factory_girl_rails (1.0) 
+       Installing faker (0.3.1) 
+       Installing gravatar_image_tag (0.1.0) 
+       Installing nokogiri (1.4.3.1) with native extensions 
+       Installing rspec-core (2.0.1) 
+       Installing rspec-expectations (2.0.1) 
+       Installing rspec-mocks (2.0.1) 
+       Installing rspec (2.0.1) 
+       Installing rspec-rails (2.0.1) 
+       Installing sqlite3-ruby (1.3.1) with native extensions 
+       Installing webrat (0.7.1) 
+       Installing will_paginate (3.0.pre2) 
+       [32mYour bundle is complete! It was installed into ./.bundle/gems[0m
+       Compiled slug size is 18.2MB
+-----> Launching... done
+       http://danielblog.heroku.com deployed to Heroku
+
+To git@heroku.com:danielblog.git
+   b51fd38..8849dfd  master -> master
+dani@dani-laptop:~/ruby/proba/teszt$ git push heroku masterheroku create         git commit -m "net"add .          .  .
+dani@dani-laptop:~/ruby/proba/teszt$ git add .push heroku masterheroku create         git commit -m "net"
+[master d13c63b] net
+ 1 files changed, 130 insertions(+), 1 deletions(-)
+dani@dani-laptop:~/ruby/proba/teszt$ git commit -m "net"add .          push heroku masterheroku create         
+Creating floating-water-54... done
+Created http://floating-water-54.heroku.com/ | git@heroku.com:floating-water-54.git
+dani@dani-laptop:~/ruby/proba/teszt$ heroku creategit commit -m "net"add .          push heroku masterheroku create         git push heroku master
+
+ !  No such app as danielblog
+
+fatal: The remote end hung up unexpectedly
+dani@dani-laptop:~/ruby/proba/teszt$ git push heroku master
+
+ !  No such app as danielblog
+
+fatal: The remote end hung up unexpectedly
+dani@dani-laptop:~/ruby/proba/teszt$ git push heroku masterheroku create         git commit -m "net"heroku create      git push heroku master
+Counting objects: 270, done.
+Delta compression using up to 2 threads.
+Compressing objects:   0% (1/252)   Compressing objects:   1% (3/252)   Compressing objects:   2% (6/252)   Compressing objects:   3% (8/252)   Compressing objects:   4% (11/252)   Compressing objects:   5% (13/252)   Compressing objects:   6% (16/252)   Compressing objects:   7% (18/252)   Compressing objects:   8% (21/252)   Compressing objects:   9% (23/252)   Compressing objects:  10% (26/252)   Compressing objects:  11% (28/252)   Compressing objects:  12% (31/252)   Compressing objects:  13% (33/252)   Compressing objects:  14% (36/252)   Compressing objects:  15% (38/252)   Compressing objects:  16% (41/252)   Compressing objects:  17% (43/252)   Compressing objects:  18% (46/252)   Compressing objects:  19% (48/252)   Compressing objects:  20% (51/252)   Compressing objects:  21% (53/252)   Compressing objects:  22% (56/252)   Compressing objects:  23% (58/252)   Compressing objects:  24% (61/252)   Compressing objects:  25% (63/252)   Compressing objects:  26% (66/252)   Compressing objects:  27% (69/252)   Compressing objects:  28% (71/252)   Compressing objects:  29% (74/252)   Compressing objects:  30% (76/252)   Compressing objects:  31% (79/252)   Compressing objects:  32% (81/252)   Compressing objects:  33% (84/252)   Compressing objects:  34% (86/252)   Compressing objects:  35% (89/252)   Compressing objects:  36% (91/252)   Compressing objects:  37% (94/252)   Compressing objects:  38% (96/252)   Compressing objects:  39% (99/252)   Compressing objects:  40% (101/252)   Compressing objects:  41% (104/252)   Compressing objects:  42% (106/252)   Compressing objects:  43% (109/252)   Compressing objects:  44% (111/252)   Compressing objects:  45% (114/252)   Compressing objects:  46% (116/252)   Compressing objects:  47% (119/252)   Compressing objects:  48% (121/252)   Compressing objects:  49% (124/252)   Compressing objects:  50% (126/252)   Compressing objects:  51% (129/252)   Compressing objects:  52% (132/252)   Compressing objects:  53% (134/252)   Compressing objects:  54% (137/252)   Compressing objects:  55% (139/252)   Compressing objects:  56% (142/252)   Compressing objects:  57% (144/252)   Compressing objects:  58% (147/252)   Compressing objects:  59% (149/252)   Compressing objects:  60% (152/252)   Compressing objects:  61% (154/252)   Compressing objects:  62% (157/252)   Compressing objects:  63% (159/252)   Compressing objects:  64% (162/252)   Compressing objects:  65% (164/252)   Compressing objects:  66% (167/252)   Compressing objects:  67% (169/252)   Compressing objects:  68% (172/252)   Compressing objects:  69% (174/252)   Compressing objects:  70% (177/252)   Compressing objects:  71% (179/252)   Compressing objects:  72% (182/252)   Compressing objects:  73% (184/252)   Compressing objects:  74% (187/252)   Compressing objects:  75% (189/252)   Compressing objects:  76% (192/252)   Compressing objects:  77% (195/252)   Compressing objects:  78% (197/252)   Compressing objects:  79% (200/252)   Compressing objects:  80% (202/252)   Compressing objects:  81% (205/252)   Compressing objects:  82% (207/252)   Compressing objects:  83% (210/252)   Compressing objects:  84% (212/252)   Compressing objects:  85% (215/252)   Compressing objects:  86% (217/252)   Compressing objects:  87% (220/252)   Compressing objects:  88% (222/252)   Compressing objects:  89% (225/252)   Compressing objects:  90% (227/252)   Compressing objects:  91% (230/252)   Compressing objects:  92% (232/252)   Compressing objects:  93% (235/252)   Compressing objects:  94% (237/252)   Compressing objects:  95% (240/252)   Compressing objects:  96% (242/252)   Compressing objects:  97% (245/252)   Compressing objects:  98% (247/252)   Compressing objects:  99% (250/252)   Compressing objects: 100% (252/252)   Compressing objects: 100% (252/252), done.
+Writing objects:   0% (1/270)   Writing objects:   1% (3/270)   Writing objects:   2% (6/270)   Writing objects:   3% (9/270)   Writing objects:   4% (11/270)   Writing objects:   5% (14/270)   Writing objects:   6% (17/270)   Writing objects:   7% (19/270)   Writing objects:   8% (22/270)   Writing objects:   9% (25/270)   Writing objects:  10% (27/270)   Writing objects:  11% (30/270)   Writing objects:  12% (33/270)   Writing objects:  13% (36/270)   Writing objects:  14% (38/270)   Writing objects:  15% (41/270)   Writing objects:  16% (44/270)   Writing objects:  17% (46/270)   Writing objects:  18% (49/270)   Writing objects:  19% (52/270)   Writing objects:  20% (54/270)   Writing objects:  21% (57/270)   Writing objects:  22% (60/270)   Writing objects:  23% (63/270)   Writing objects:  24% (65/270)   Writing objects:  25% (68/270)   Writing objects:  26% (71/270)   Writing objects:  27% (73/270)   Writing objects:  28% (76/270)   Writing objects:  29% (79/270)   Writing objects:  30% (81/270)   Writing objects:  31% (84/270)   Writing objects:  32% (87/270)   Writing objects:  33% (90/270)   Writing objects:  34% (92/270)   Writing objects:  35% (95/270)   Writing objects:  36% (98/270)   Writing objects:  37% (100/270)   Writing objects:  38% (103/270)   Writing objects:  39% (106/270)   Writing objects:  40% (108/270)   Writing objects:  41% (111/270)   Writing objects:  42% (114/270)   Writing objects:  43% (117/270)   Writing objects:  44% (119/270)   Writing objects:  45% (122/270)   Writing objects:  46% (125/270)   Writing objects:  47% (127/270)   Writing objects:  48% (130/270)   Writing objects:  49% (133/270)   Writing objects:  50% (135/270)   Writing objects:  51% (138/270)   Writing objects:  52% (141/270)   Writing objects:  53% (144/270)   Writing objects:  54% (146/270)   Writing objects:  55% (149/270)   Writing objects:  56% (152/270)   Writing objects:  57% (154/270)   Writing objects:  58% (157/270)   Writing objects:  59% (161/270)   Writing objects:  60% (162/270)   Writing objects:  61% (165/270)   Writing objects:  62% (168/270)   Writing objects:  63% (171/270)   Writing objects:  64% (173/270)   Writing objects:  65% (176/270)   Writing objects:  66% (179/270)   Writing objects:  67% (181/270)   Writing objects:  68% (184/270)   Writing objects:  69% (187/270)   Writing objects:  70% (189/270)   Writing objects:  71% (192/270)   Writing objects:  72% (195/270)   Writing objects:  73% (198/270)   Writing objects:  74% (200/270)   Writing objects:  75% (203/270)   Writing objects:  76% (206/270)   Writing objects:  77% (208/270)   Writing objects:  78% (211/270)   Writing objects:  79% (214/270)   Writing objects:  80% (216/270)   Writing objects:  81% (219/270)   Writing objects:  82% (222/270)   Writing
